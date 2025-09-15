@@ -59,9 +59,9 @@ We decided to compare the test of a training with an unbalanced DataFrame and ob
 
 ![LightGBM with the Optimized Model with unbalanced DataFrame](Images/LightGBM opt Model unbalanced.png)
 
-![Confusion Matrix of the Optimized Model with unbalanced DataFrame](Images/confusion_matrix unbalanced.png)
+![Confusion Matrix of the Optimized Model with unbalanced DataFrame](Images/confusion matrix unbalanced.png)
 
-![Feature Importance with Unbalanced DataFrame](Images/feature_importance unbalanced.png)
+![Feature Importance with Unbalanced DataFrame](Images/feature importance unbalanced.png)
 
 
 ## Contributions 🖨️
