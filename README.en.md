@@ -51,7 +51,7 @@ After training an optimized `LightGBM` model with a 1:1 sampling strategy, the k
 
 ![LightGBM with the Optimized Model](Images/LightGBM_opt_Model.png)
 
-![Confusion Matrix of the Optimized Model](Images/confusion_matrix.png)
+![Confusion Matrix of the Optimized Model](Images/confusion_matrix_opt.png)
 
 ![Feature Importance](Images/feature_importance.png)
 
@@ -59,7 +59,7 @@ We decided to compare the test of a training with an unbalanced DataFrame and ob
 
 ![LightGBM with the Optimized Model with unbalanced DataFrame](Images/LightGBM_opt_Model_unbalanced.png)
 
-![Confusion Matrix of the Optimized Model with unbalanced DataFrame](Images/confusion_matrix_unbalanced.png)
+![Confusion Matrix of the Optimized Model with unbalanced DataFrame](Images/confusion_matrix_opt_unbalanced.png)
 
 ![Feature Importance with Unbalanced DataFrame](Images/feature_importance_unbalanced.png)
 
