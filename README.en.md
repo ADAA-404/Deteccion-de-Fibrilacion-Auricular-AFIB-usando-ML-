@@ -49,19 +49,19 @@ The data pipeline successfully processes **+10 million heartbeats** from 80 pati
 
 After training an optimized `LightGBM` model with a 1:1 sampling strategy, the key results on the test set were as follows:
 
-![LightGBM with the Optimized Model](Images/LightGBM opt Model.png)
+![LightGBM with the Optimized Model](Images/LightGBM_opt_Model.png)
 
-![Confusion Matrix of the Optimized Model](Images/confusion matrix.png)
+![Confusion Matrix of the Optimized Model](Images/confusion_matrix.png)
 
-![Feature Importance](Images/feature importance.png)
+![Feature Importance](Images/feature_importance.png)
 
 We decided to compare the test of a training with an unbalanced DataFrame and obtained this difference:
 
-![LightGBM with the Optimized Model with unbalanced DataFrame](Images/LightGBM opt Model unbalanced.png)
+![LightGBM with the Optimized Model with unbalanced DataFrame](Images/LightGBM_opt_Model_unbalanced.png)
 
-![Confusion Matrix of the Optimized Model with unbalanced DataFrame](Images/confusion matrix unbalanced.png)
+![Confusion Matrix of the Optimized Model with unbalanced DataFrame](Images/confusion_matrix_unbalanced.png)
 
-![Feature Importance with Unbalanced DataFrame](Images/feature importance unbalanced.png)
+![Feature Importance with Unbalanced DataFrame](Images/feature_importance_unbalanced.png)
 
 
 ## Contributions 🖨️
