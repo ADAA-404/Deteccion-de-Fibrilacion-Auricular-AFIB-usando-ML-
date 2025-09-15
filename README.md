@@ -49,9 +49,9 @@ Después de entrenar un modelo `LightGBM` optimizado con una estrategia de muest
 
 ![LightGBM con el Modelo Optimizado](Images/LightGBM opt Model.png)
 
-![Matriz de Confusión del Modelo Optimizado](Images/confusion_matrix.png)
+![Matriz de Confusión del Modelo Optimizado](Images/confusion matrix.png)
 
-![Importancia de las Características](Images/feature_importance.png)
+![Importancia de las Características](Images/feature importance.png)
 
 Considerarmos constrastar la prueba de un entrenamiento con un DataFrame desbalanceado y obtuvimos esta diferencia:
 
