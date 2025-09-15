@@ -47,19 +47,19 @@ El pipeline de datos procesa con éxito **+10 millones de latidos** de 80 pacien
 
 Después de entrenar un modelo `LightGBM` optimizado con una estrategia de muestreo 1:1, los resultados clave en el conjunto de prueba fueron los siguientes:
 
-![LightGBM con el Modelo Optimizado](Images/LightGBM opt Model.png)
+![LightGBM con el Modelo Optimizado](Images/LightGBM_opt_Model.png)
 
-![Matriz de Confusión del Modelo Optimizado](Images/confusion matrix.png)
+![Matriz de Confusión del Modelo Optimizado](Images/confusion_matrix.png)
 
-![Importancia de las Características](Images/feature importance.png)
+![Importancia de las Características](Images/feature_importance.png)
 
 Considerarmos constrastar la prueba de un entrenamiento con un DataFrame desbalanceado y obtuvimos esta diferencia:
 
-![LightGBM con el Modelo Optimizado con DataFrame desbalanceado](Images/LightGBM opt Model unbalanced.png)
+![LightGBM con el Modelo Optimizado con DataFrame desbalanceado](Images/LightGBM_opt_Model_unbalanced.png)
 
-![Matriz de Confusión del Modelo Optimizado con DataFrame desbalanceado](Images/confusion_matrix unbalanced.png)
+![Matriz de Confusión del Modelo Optimizado con DataFrame desbalanceado](Images/confusion_matrix_unbalanced.png)
 
-![Importancia de las Características con DataFrame desbalanceado](Images/feature_importance unbalanced.png)
+![Importancia de las Características con DataFrame desbalanceado](Images/feature_importance_unbalanced.png)
 
 ## Contribuciones 🖨️
 
