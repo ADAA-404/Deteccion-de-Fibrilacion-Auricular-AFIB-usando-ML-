@@ -33,8 +33,8 @@ bash
     pip install pandas numpy wfdb scikit-learn lightgbm seaborn matplotlib imblearn pyarrow
     ```  
     
-Data Configuration: Ensure that the PhysioNet/Computing in Cardiology competition data files are located in the folder you are working with within the project structure.
-Run the Script: Simply run the main script (or the cells in your notebook) to execute the processing, modeling, and evaluation pipeline.
+Data Configuration: Ensure that the PhysioNet/Computing in Cardiology competition data files are located in the folder you are working with within the project structure.  
+Run the Script: Simply run the main script (or the cells in your notebook) to execute the processing, modeling, and evaluation pipeline.  
 
 ## Note ⚠️
 To manage this type of data, it is necessary to understand that the more data you have, the more processes you need to implement to manage it, especially considering its respective formats (.qrs, .hea, csv, .dat, .atr). In this case, there are 8.27 GB of data, so you need to consider a strategy (included in the script) to process it according to the equipment you are working with. Efficiency and care in starting the project are crucial so that you can perform the necessary tests and applications.  
