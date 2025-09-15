@@ -9,8 +9,10 @@ El objetivo principal es construir un modelo predictivo que pueda diferenciar en
 Este conjunto de datos está disponible públicamente para investigación. Los detalles se describen las siguientes citaciones. Importante, incluye esta cita si planeas usar esta base de datos:
 
 > Tsutsui, K., Biton Brimer, S., & Behar, J. (2025). SHDB-AF: a Japanese Holter ECG database of atrial fibrillation (version 1.0.1). PhysioNet. RRID:SCR_007345. https://doi.org/10.13026/n6yq-fq90
+
 > Tsutsui, K., Brimer, S.B., Ben-Moshe, N. et al. SHDB-AF: a Japanese Holter ECG database of atrial fibrillation. Sci Data 12, 454 (2025). https://doi.org/10.1038/s41597-025-04777-4
-> Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220. RRID:SCR_007345.
+
+> Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220. RRID:SCR_007345.  
 
 ## Tecnologias usadas 🐍
 -   Pandas & NumPy: Para la manipulación, limpieza y análisis de datos a gran escala.
