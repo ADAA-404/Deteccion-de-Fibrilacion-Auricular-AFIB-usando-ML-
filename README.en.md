@@ -24,7 +24,7 @@ This dataset is publicly available for research. Details are described in the fo
 -   LightGBM: A high-performance Gradient Boosting implementation used to build the classification model.
 -   Matplotlib & Seaborn: For data visualization and model results.  
 
-## Consideraciones en Instalación ⚙️
+## Installation Considerations ⚙️
 
 To set up and run this project, i recommend using a `conda` environment. These libraries will help you create the necessary environment:
 
